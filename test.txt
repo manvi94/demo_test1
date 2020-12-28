@@ -1,0 +1,35 @@
+git add test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$ git status
+
+
+
+
+
+
+
